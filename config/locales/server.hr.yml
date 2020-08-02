@@ -1,0 +1,4 @@
+hr:
+  site_settings:
+    signatures_enabled: "Omogućiti potpise korisnika ispod objava?"
+    signatures_advanced_mode: "Omogućite korisnicima čitav uređivač za izradu njihovih potpisa. Poništite sve postojeće potpise. Zahtijeva ponovno pokretanje servera."
